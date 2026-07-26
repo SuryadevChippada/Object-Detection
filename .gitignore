@@ -1,0 +1,9 @@
+data/
+Object detection datasets/
+runs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.claude/
